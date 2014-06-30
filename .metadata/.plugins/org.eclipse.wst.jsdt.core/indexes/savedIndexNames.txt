@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\dev\gitrepos\fleettracker\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2320493423.index
+2260014651.index
+2663582194.index
+3448888064.index
+529649984.index
